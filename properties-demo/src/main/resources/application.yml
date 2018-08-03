@@ -1,0 +1,9 @@
+name: Spring Boot!
+
+person:
+ name: Spring Boot of Person!
+ age: 18
+
+spring:
+  profiles:
+    active: prod
