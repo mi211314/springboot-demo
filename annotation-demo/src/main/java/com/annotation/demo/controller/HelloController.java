@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * @Description: HelloController
- * @Author: miaolei
+ * @Author:
  * @Date: 2018/8/2 16:38
  */
 @Controller

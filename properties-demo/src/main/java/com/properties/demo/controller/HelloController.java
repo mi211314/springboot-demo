@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: HelloController
- * @Author: miaolei
+ * @Author:
  * @Date: 2018/8/3 13:59
  */
 @RestController
